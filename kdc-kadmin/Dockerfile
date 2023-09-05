@@ -1,5 +1,4 @@
-FROM debian:jessie
-MAINTAINER Simão Martins "simao.martins@tecnico.ulisboa.pt"
+FROM common_scripts
 
 EXPOSE 749 88
 
